@@ -89,7 +89,7 @@ function App() {
   return (
     <>
       {alert.show && <Alert type={alert.type} text={alert.text} />}
-      <h1>buget calculator</h1>
+      <h1>budget calculator</h1>
       <main className="App">
         <Form
           charge={charge}
