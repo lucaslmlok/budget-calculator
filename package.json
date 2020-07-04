@@ -2,7 +2,7 @@
   "name": "budget-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lucaslmlok.github.io/budget-calculator/",
+  "homepage": "https://lucaslmlok.github.io/budget-calculator",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
